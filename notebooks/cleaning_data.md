@@ -81,6 +81,14 @@
             - **Full Outer**: displays all rows from both tables
             - **Inner**: displays only matched rows between two tables
 ## Profile data in Power BI
-
+### Examine data structures
+    - Use the Model tab to view relationships
+        - ![alt text](image-11.png)
+    - Use Column Distribution, Column Quality and Column Profile Options from the view tab INSIDE PQE.
+        - ![alt text](image-12.png)
+## Use Advanced Editor to modify M code
+ - Power BI uses M code to control queries
+ - Advanced Editor is accessed on the view tab in PQE
+ 
     
 
